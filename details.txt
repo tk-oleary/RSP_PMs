@@ -1,0 +1,1 @@
+RSP EvaluationDate: 20240510Script source: e:\tko\TPAT\RSP_Evals\RSP_PMs_Repo\RSP_PMsSource: ['E:/tko/TPAT/RSP_Evals/Test_repo\\RSP20_700\\cmap_trip-based_model\\Database\\Select_Link\\rsp_corridor_70029.csv', 'E:/tko/TPAT/RSP_Evals/Test_repo\\RSP20_700\\cmap_trip-based_model\\Database\\Select_Link\\nb_corridor_70029.csv']Runs: dict_keys(['RSP20_700', 'RSP57_700'])

@@ -1,0 +1,39 @@
+﻿variable,value,description
+ann_factor,348,annualization factor
+discount_rate,0.04,real discount rate
+occupancy_hov3,3.4,average number of occupants for 3+ person high-occupancy vehicle
+vc_threshold,0.75,volume-over-capacity quotient defining when a road is "congested"
+corridor_distance,5,buffer distance defining "corridor" around a project (in miles)
+VOT_inv_nw,21.73,[Value of Time] in-vehicle (nonwork) driver
+VOT_inv_work,43.45,[Value of Time] in-vehicle (work) driver
+VOT_bplate,25.43,[Value of Time] b-plate truck driver
+VOT_ltruck,29.12,[Value of Time] light truck driver
+VOT_mtruck,35.56,[Value of Time] medium truck driver
+VOT_htruck,35.56,[Value of Time] heavy truck driver
+VOT_bus,30,[Value of Time] bus driver
+VOT_rail,30,[Value of Time] rail driver
+OC_auto,0.54,[Operating Cost] auto cost per mile traveled
+OC_bplate,0.54,[Operating Cost] b-plate truck cost per mile traveled
+OC_ltruck,0.54,[Operating Cost] light truck cost per mile traveled
+OC_mtruck,0.54,[Operating Cost] medium truck cost per mile traveled
+OC_htruck,0.54,[Operating Cost] heavy truck cost per mile traveled
+OC_bus,0.54,[Operating Cost] bus vehicle cost per mile traveled
+OC_rail,0.54,[Operating Cost] rail vehicle cost per mile traveled
+POLL_nox,8532,[Pollution] nitrogen oxide value per ton of pollution
+POLL_voc,2056,[Pollution] volatile organic compounds value per ton of pollution
+POLL_pm25,388378,[Pollution] particulate matter (PM 2.5) value per ton of pollution
+POLL_ghg,1,[Pollution] carbon (?) value per ton of pollution
+SAFE_ka,100000,[Safety] value per fatal/serious injury victim
+SAFE_pdo,5000,[Safety] value per property damage incident
+SAFE_icrashrate,0,[Safety] interstate crash rate per 100M VMT ([fromyear]-[toyear])
+SAFE_nicrashrate,0,[Safety] non-interstate crash rate per 100M vmt ([fromyear]-[toyear])
+SAFE_ikarate,3.152,[Safety] 5-year interstate K+A rate per 100M vehicle miles traveled (2015-2019)
+SAFE_nikarate,15.174,[Safety] 5-year non-interstate K+A rate per 100M vehicle miles traveled (2015-2019)
+N_ltruck_urban,0.0018,[Noise] recommended value of cost for noise per VMT for light truck in urban environment (2021 $)
+N_ltruck_rural,0.0002,[Noise] recommended value of cost for noise per VMT for light truck in rural environment (2021 $)
+N_bustruck_urban,0.0411,[Noise] recommended value of cost for noise per VMT for buses and trucks in urban environment (2021 $)
+N_bustruck_rural,0.0034,[Noise] recommended value of cost for noise per VMT for buses and trucks in rural environment (2021 $)
+N_allveh_urban,0.0048,[Noise] recommended value of cost for noise per VMT for all vehicles in urban environment (2021 $)
+N_allveh_rural,0.0007,[Noise] recommended value of cost for noise per VMT for all vehicles in rural environment (2021 $)
+REL_80p,100,[Reliability] value of time per 80th percentile hour
+REL_95p,200,[Reliability] value of time per 95th percentile hour
